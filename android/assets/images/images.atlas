@@ -1,0 +1,118 @@
+
+images.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ball_face
+  rotate: false
+  xy: 306, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ball_lights
+  rotate: false
+  xy: 306, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 306, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+boost
+  rotate: false
+  xy: 408, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 104, 221
+  size: 200, 85
+  orig: 200, 85
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 104, 134
+  size: 200, 85
+  orig: 200, 85
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 104, 47
+  size: 200, 85
+  orig: 200, 85
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 465, 507
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+mountains
+  rotate: false
+  xy: 204, 410
+  size: 256, 100
+  orig: 256, 100
+  offset: 0, 0
+  index: -1
+mountains2
+  rotate: false
+  xy: 204, 308
+  size: 256, 100
+  orig: 256, 100
+  offset: 0, 0
+  index: -1
+pencil
+  rotate: false
+  xy: 2, 108
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+sharp
+  rotate: false
+  xy: 104, 15
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 462, 254
+  size: 1, 256
+  orig: 1, 256
+  offset: 0, 0
+  index: -1
+spinBack
+  rotate: false
+  xy: 408, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 2, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
